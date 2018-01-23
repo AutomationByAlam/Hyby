@@ -1,0 +1,187 @@
+2017-12-16 13:27:00 INFO  Class:81 - Loading log4j properties
+2017-12-16 13:27:00 INFO  Class:88 - Loading config properties
+2017-12-16 13:27:00 INFO  Class:95 - Loading Login properties
+2017-12-16 13:27:45 INFO  Class:81 - Loading log4j properties
+2017-12-16 13:27:45 INFO  Class:88 - Loading config properties
+2017-12-16 13:27:45 INFO  Class:95 - Loading Login properties
+2017-12-16 14:07:58 INFO  Class:81 - Loading log4j properties
+2017-12-16 14:07:58 INFO  Class:88 - Loading config properties
+2017-12-16 14:07:58 INFO  Class:95 - Loading Login properties
+2017-12-16 15:34:30 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:34:30 INFO  Class:89 - Loading config properties
+2017-12-16 15:34:30 INFO  Class:96 - Loading Login properties
+2017-12-16 15:36:27 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:36:27 INFO  Class:89 - Loading config properties
+2017-12-16 15:36:27 INFO  Class:96 - Loading Login properties
+2017-12-16 15:38:35 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:38:35 INFO  Class:89 - Loading config properties
+2017-12-16 15:38:35 INFO  Class:96 - Loading Login properties
+2017-12-16 15:39:45 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:39:45 INFO  Class:89 - Loading config properties
+2017-12-16 15:39:45 INFO  Class:96 - Loading Login properties
+2017-12-16 15:40:16 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:40:16 INFO  Class:89 - Loading config properties
+2017-12-16 15:40:16 INFO  Class:96 - Loading Login properties
+2017-12-16 15:41:11 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:41:11 INFO  Class:89 - Loading config properties
+2017-12-16 15:41:11 INFO  Class:96 - Loading Login properties
+2017-12-16 15:42:30 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:42:30 INFO  Class:89 - Loading config properties
+2017-12-16 15:42:30 INFO  Class:96 - Loading Login properties
+2017-12-16 15:45:25 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:45:25 INFO  Class:89 - Loading config properties
+2017-12-16 15:45:25 INFO  Class:96 - Loading Login properties
+2017-12-16 15:46:12 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:46:12 INFO  Class:89 - Loading config properties
+2017-12-16 15:46:12 INFO  Class:96 - Loading Login properties
+2017-12-16 15:47:20 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:47:20 INFO  Class:89 - Loading config properties
+2017-12-16 15:47:20 INFO  Class:96 - Loading Login properties
+2017-12-16 15:47:31 INFO  Class:82 - Loading log4j properties
+2017-12-16 15:47:31 INFO  Class:89 - Loading config properties
+2017-12-16 15:47:31 INFO  Class:96 - Loading Login properties
+2017-12-16 16:11:36 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:11:36 INFO  Class:89 - Loading config properties
+2017-12-16 16:11:36 INFO  Class:96 - Loading Login properties
+2017-12-16 16:14:41 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:14:41 INFO  Class:89 - Loading config properties
+2017-12-16 16:14:41 INFO  Class:96 - Loading Login properties
+2017-12-16 16:16:35 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:16:35 INFO  Class:89 - Loading config properties
+2017-12-16 16:16:35 INFO  Class:96 - Loading Login properties
+2017-12-16 16:16:46 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:16:46 INFO  Class:89 - Loading config properties
+2017-12-16 16:16:46 INFO  Class:96 - Loading Login properties
+2017-12-16 16:21:37 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:21:37 INFO  Class:89 - Loading config properties
+2017-12-16 16:21:37 INFO  Class:96 - Loading Login properties
+2017-12-16 16:22:53 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:22:53 INFO  Class:89 - Loading config properties
+2017-12-16 16:22:53 INFO  Class:96 - Loading Login properties
+2017-12-16 16:25:11 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:25:11 INFO  Class:89 - Loading config properties
+2017-12-16 16:25:11 INFO  Class:96 - Loading Login properties
+2017-12-16 16:25:45 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:25:45 INFO  Class:89 - Loading config properties
+2017-12-16 16:25:45 INFO  Class:96 - Loading Login properties
+2017-12-16 16:26:12 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:26:12 INFO  Class:89 - Loading config properties
+2017-12-16 16:26:12 INFO  Class:96 - Loading Login properties
+2017-12-16 16:26:29 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:26:29 INFO  Class:89 - Loading config properties
+2017-12-16 16:26:29 INFO  Class:96 - Loading Login properties
+2017-12-16 16:29:25 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:29:25 INFO  Class:89 - Loading config properties
+2017-12-16 16:29:25 INFO  Class:96 - Loading Login properties
+2017-12-16 16:29:31 INFO  WaitHelper:33 - 20
+2017-12-16 16:29:31 INFO  WaitHelper:38 - 240
+2017-12-16 16:32:18 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:32:18 INFO  Class:89 - Loading config properties
+2017-12-16 16:32:18 INFO  Class:96 - Loading Login properties
+2017-12-16 16:32:26 INFO  WaitHelper:33 - 20
+2017-12-16 16:32:26 INFO  WaitHelper:38 - 240
+2017-12-16 16:38:13 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:38:13 INFO  Class:89 - Loading config properties
+2017-12-16 16:38:13 INFO  Class:96 - Loading Login properties
+2017-12-16 16:38:20 INFO  WaitHelper:33 - 20
+2017-12-16 16:38:20 INFO  WaitHelper:38 - 240
+2017-12-16 16:41:08 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:41:08 INFO  Class:89 - Loading config properties
+2017-12-16 16:41:08 INFO  Class:96 - Loading Login properties
+2017-12-16 16:41:13 INFO  WaitHelper:33 - 20
+2017-12-16 16:41:13 INFO  WaitHelper:38 - 240
+2017-12-16 16:42:38 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:42:38 INFO  Class:89 - Loading config properties
+2017-12-16 16:42:38 INFO  Class:96 - Loading Login properties
+2017-12-16 16:42:43 INFO  WaitHelper:33 - 20
+2017-12-16 16:42:44 INFO  WaitHelper:38 - 240
+2017-12-16 16:44:39 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:44:39 INFO  Class:89 - Loading config properties
+2017-12-16 16:44:39 INFO  Class:96 - Loading Login properties
+2017-12-16 16:44:44 INFO  WaitHelper:33 - 20
+2017-12-16 16:44:44 INFO  WaitHelper:38 - 240
+2017-12-16 16:51:17 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:51:17 INFO  Class:89 - Loading config properties
+2017-12-16 16:51:17 INFO  Class:96 - Loading Login properties
+2017-12-16 16:51:23 INFO  WaitHelper:33 - 20
+2017-12-16 16:51:23 INFO  WaitHelper:38 - 240
+2017-12-16 16:54:39 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:54:39 INFO  Class:89 - Loading config properties
+2017-12-16 16:54:39 INFO  Class:96 - Loading Login properties
+2017-12-16 16:54:45 INFO  WaitHelper:33 - 20
+2017-12-16 16:54:45 INFO  WaitHelper:38 - 240
+2017-12-16 16:55:27 INFO  Class:82 - Loading log4j properties
+2017-12-16 16:55:28 INFO  Class:89 - Loading config properties
+2017-12-16 16:55:28 INFO  Class:96 - Loading Login properties
+2017-12-16 16:55:35 INFO  WaitHelper:33 - 20
+2017-12-16 16:55:35 INFO  WaitHelper:38 - 240
+2017-12-16 16:55:45 INFO  WaitHelper:62 - element found...
+2017-12-16 16:55:45 INFO  LoginPage1:65 - Entering Username : azhar1911
+2017-12-16 16:55:48 INFO  LoginPage1:67 - Entering password : welcome
+2017-12-16 16:55:50 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (2817c557617056b2dc9ee25fb0cfc99c)] -> xpath: .//*[@id='ddlDomain']] Value : HCLTECH
+2017-12-16 16:55:50 INFO  LoginPage1:71 - selectED dropdown
+2017-12-16 17:00:38 INFO  Class:82 - Loading log4j properties
+2017-12-16 17:00:38 INFO  Class:89 - Loading config properties
+2017-12-16 17:00:38 INFO  Class:96 - Loading Login properties
+2017-12-16 17:00:45 INFO  WaitHelper:33 - 20
+2017-12-16 17:00:45 INFO  WaitHelper:38 - 240
+2017-12-16 17:00:59 INFO  WaitHelper:62 - element found...
+2017-12-16 17:00:59 INFO  LoginPage1:65 - Entering Username : azhar1911
+2017-12-16 17:00:59 INFO  LoginPage1:67 - Entering password : welcome
+2017-12-16 17:01:00 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (5da35820e62544f3e10fd15aa8d21793)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2017-12-16 17:01:00 INFO  LoginPage1:71 - selectED dropdown
+2017-12-16 17:02:04 INFO  Class:82 - Loading log4j properties
+2017-12-16 17:02:04 INFO  Class:89 - Loading config properties
+2017-12-16 17:02:04 INFO  Class:96 - Loading Login properties
+2017-12-16 17:02:15 INFO  WaitHelper:33 - 20
+2017-12-16 17:02:15 INFO  WaitHelper:38 - 240
+2017-12-16 17:02:28 INFO  WaitHelper:62 - element found...
+2017-12-16 17:02:28 INFO  LoginPage1:65 - Entering Username : azhar1911
+2017-12-16 17:02:29 INFO  LoginPage1:67 - Entering password : welcome
+2017-12-16 17:02:30 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (953ae998c271e58e0c6e0b89b1f0dfd9)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2017-12-16 17:02:30 INFO  LoginPage1:71 - selectED dropdown
+2017-12-16 17:03:42 INFO  Class:82 - Loading log4j properties
+2017-12-16 17:03:42 INFO  Class:89 - Loading config properties
+2017-12-16 17:03:42 INFO  Class:96 - Loading Login properties
+2017-12-16 17:03:51 INFO  WaitHelper:33 - 20
+2017-12-16 17:03:51 INFO  WaitHelper:38 - 240
+2017-12-16 17:04:04 INFO  WaitHelper:62 - element found...
+2017-12-16 17:04:04 INFO  LoginPage1:65 - Entering Username : azhar1911
+2017-12-16 17:04:05 INFO  LoginPage1:67 - Entering password : welcome
+2017-12-16 17:04:07 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (cc63d7180774efe2e1cacb18fea40ed9)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2017-12-16 17:04:07 INFO  LoginPage1:71 - selectED dropdown
+2017-12-16 17:25:23 INFO  Class:82 - Loading log4j properties
+2017-12-16 17:25:23 INFO  Class:89 - Loading config properties
+2017-12-16 17:25:23 INFO  Class:96 - Loading Login properties
+2017-12-16 17:25:29 INFO  WaitHelper:33 - 20
+2017-12-16 17:25:29 INFO  WaitHelper:38 - 240
+2017-12-16 17:25:37 INFO  WaitHelper:62 - element found...
+2017-12-16 17:25:37 INFO  LoginPage1:66 - Entering Username : azhar1911
+2017-12-16 17:25:38 INFO  LoginPage1:68 - Entering password : welcome
+2017-12-16 17:25:39 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (62268a90ee9c583d634cdd1d1fb4563c)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2017-12-16 17:25:39 INFO  LoginPage1:72 - selectED dropdown
+2017-12-16 17:25:55 ERROR VerificationHelper:55 - actualText is :Either your login credentials are not correct or Login ID does not exist in selected domain. expected text is: abc
+2017-12-16 17:27:05 INFO  Class:82 - Loading log4j properties
+2017-12-16 17:27:05 INFO  Class:89 - Loading config properties
+2017-12-16 17:27:05 INFO  Class:96 - Loading Login properties
+2017-12-16 17:27:09 INFO  WaitHelper:33 - 20
+2017-12-16 17:27:10 INFO  WaitHelper:38 - 240
+2017-12-16 17:27:13 INFO  WaitHelper:62 - element found...
+2017-12-16 17:27:13 INFO  LoginPage1:66 - Entering Username : azhar1911
+2017-12-16 17:27:13 INFO  LoginPage1:68 - Entering password : welcome
+2017-12-16 17:27:15 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (6b6c77e3b5e3fe8fc46a4bfb6c54f9b8)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2017-12-16 17:27:15 INFO  LoginPage1:72 - selectED dropdown
+2017-12-16 17:27:37 INFO  VerificationHelper:51 - actualText is :Either your login credentials are not correct or Login ID does not exist in selected domain. expected text is: Either your login credentials are not correct or Login ID does not exist in selected domain.
+2018-01-14 17:43:14 INFO  Class:82 - Loading log4j properties
+2018-01-14 17:43:16 INFO  Class:89 - Loading config properties
+2018-01-14 17:43:16 INFO  Class:96 - Loading Login properties
+2018-01-14 17:44:42 INFO  WaitHelper:33 - 20
+2018-01-14 17:44:42 INFO  WaitHelper:38 - 240
+2018-01-14 17:44:56 INFO  WaitHelper:62 - element found...
+2018-01-14 17:44:56 INFO  LoginPage1:66 - Entering Username : azhar1911
+2018-01-14 17:44:59 INFO  LoginPage1:68 - Entering password : welcome
+2018-01-14 17:45:01 INFO  DropDownHelper:51 - Locator : [[ChromeDriver: chrome on XP (9ac67f6e95059ef30b40462994881fe3)] -> xpath: .//*[@id='ddlDomain']] Value : GEO
+2018-01-14 17:45:01 INFO  LoginPage1:72 - selectED dropdown
+2018-01-14 17:45:27 INFO  VerificationHelper:51 - actualText is :Either your login credentials are not correct or Login ID does not exist in selected domain. expected text is: Either your login credentials are not correct or Login ID does not exist in selected domain.
+2018-01-14 17:45:44 INFO  Excel_reader:19 - Creating excel object:-H:\FrameWorkPractice\Hybrid/src/main/java/hcl/Hybrid/Data/TestData.xlsx
+2018-01-14 17:46:07 INFO  Excel_reader:19 - Creating excel object:-H:\FrameWorkPractice\Hybrid/src/main/java/hcl/Hybrid/Data/TestData.xlsx

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vaio-VAIO" name="hcl.Hybrid.LoginPage.LoginTest" tests="11" failures="0" timestamp="14 Jan 2018 12:16:09 GMT" time="174.797" errors="0">
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at hcl.Hybrid.Base.TestBase.getScreenShot(TestBase.java:186)
+	at hcl.Hybrid.Base.TestBase.getresult(TestBase.java:198)
+	at hcl.Hybrid.Base.TestBase.afterMethod(TestBase.java:213)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:115)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:204)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:107)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:112)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod afterMethod" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterClass endTest" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at hcl.Hybrid.Base.TestBase.endTest(TestBase.java:224)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:115)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:204)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:107)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:112)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+... Removed 22 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="loginApp" time="45.122" classname="hcl.Hybrid.LoginPage.LoginTest"/>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript"/>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin1" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin1" time="0.001" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+  <testcase name="testLogin1" time="0.0" classname="hcl.Hybrid.LoginPage.TestDataDriverScript">
+    <skipped/>
+  </testcase>
+</testsuite>

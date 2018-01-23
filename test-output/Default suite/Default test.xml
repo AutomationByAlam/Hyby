@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vaio-VAIO" name="hcl.Hybrid.LoginPage.LoginTest" tests="1" failures="0" timestamp="16 Dec 2017 11:57:40 GMT" time="35.222" errors="0">
+  <testcase name="loginApp" time="27.113" classname="hcl.Hybrid.LoginPage.LoginTest"/>
+</testsuite>

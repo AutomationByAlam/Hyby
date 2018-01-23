@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)" preserve-order="false">
+    <classes>
+      <class name="hcl.Hybrid.LoginPage.LoginTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class>
+      <class name="hcl.Hybrid.LoginPage.TestDataDriverScript">
+        <methods>
+          <include name="testLogin1"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
